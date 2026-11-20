@@ -1,4 +1,4 @@
-# de que se va a tratar el proyecto final?
+  # de que se va a tratar el proyecto final?
 
 # que herramientas utilizaremos para crear ese proyecto.
 
